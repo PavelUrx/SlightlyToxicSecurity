@@ -1,0 +1,44 @@
+{
+    "id": 0,
+    "title": "Sample article",
+    "author": "Pavel Urx",
+    "published": "10-10-2025",
+    "edited": "10-11-2025",
+    "tags": [
+        "security",
+        "defence"
+    ],
+    "article-data": [
+        {
+            "layout": "single",
+            "subtitle": "My new blog",
+            "data": [
+                {
+                    "type": "text",
+                    "content": "Welcome to my csec blog {{0}}"
+                }
+            ]
+        },
+        {
+            "layout": "two-columns",
+            "subtitle": "My new blog",
+            "data": [
+                {
+                    "type": "text",
+                    "content": "Welcome to my csec blog"
+                },
+                {
+                    "type": "image",
+                    "content": "url"
+                }
+            ]
+        }
+    ],
+    "links": [
+        {
+            "id": 0,
+            "text": "Přečíst zde",
+            "url": "url"
+        }
+    ]
+}
